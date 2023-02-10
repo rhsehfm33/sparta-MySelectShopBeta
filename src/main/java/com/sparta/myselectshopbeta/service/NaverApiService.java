@@ -1,6 +1,6 @@
-package com.sparta.myselectshopbeta.naver.service;
+package com.sparta.myselectshopbeta.service;
 
-import com.sparta.myselectshopbeta.naver.dto.ItemDto;
+import com.sparta.myselectshopbeta.dto.ItemDto;
 import lombok.extern.slf4j.Slf4j;
 import org.json.JSONArray;
 import org.json.JSONObject;
